@@ -1,8 +1,8 @@
 ---
-layout: news
+layout: news-article
 title: A strange lonely planet found without a stars
 meta: An international team of astronomers has discovered an exotic young planet that is not orbiting a star.
-sources: http://phys.org/news/2013-10-strange-lonely-planet-star.html
+source: http://phys.org/news/2013-10-strange-lonely-planet-star.html
 category: news
 ---
 

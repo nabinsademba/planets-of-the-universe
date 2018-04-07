@@ -5,22 +5,4 @@ html {
 	font: noraml 100%/1.4 Georgia,serif;
 } 
 
-.current {
-	background-color: #000531;
-	color: #fff;
-}
 
-.nav {
-	margin: 0;
-	padding: 0;
-
-	list-style: none;
-}
-
-.nav > li {
-	display: inline-block;
-}
-
-.nav-top {
-	font-size: 1.25rem;
-}
